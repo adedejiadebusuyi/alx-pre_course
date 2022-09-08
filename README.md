@@ -1,2 +1,1 @@
-My first readme
-I made some changes to my main branch
+This is the readme file for alx second project on git, github and code versioning.

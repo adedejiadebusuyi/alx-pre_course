@@ -1,2 +1,2 @@
-My first readme
-I made some changes to my main branch
+My readme file for the second branch created during the project
+

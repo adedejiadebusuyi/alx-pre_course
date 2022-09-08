@@ -1,2 +1,2 @@
-My readme file for the second branch created during the project
+My first readme file for the second branch 
 
